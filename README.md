@@ -6,7 +6,7 @@
 
 
 
-### Hi!👋 I'm **`Gamer`** aka `Girl`
+### Hi!👋 I'm **`Jokery`** 
 
 **im hot** 
 
