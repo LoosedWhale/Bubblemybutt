@@ -6,13 +6,11 @@
 
 
 
-### Hi!👋 I'm **`Jokery`** 
-
-**im hot** 
+### Hi!👋 I'm **`Felicia`** 
 
 ## **🐬 About me**
 <a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8343288d-9925-4cc3-ac58-eccb809458c7/dddklwc-9a11213d-293d-4044-a7af-483149610659.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzNDMyODhkLTk5MjUtNGNjMy1hYzU4LWVjY2I4MDk0NThjN1wvZGRka2x3Yy05YTExMjEzZC0yOTNkLTQwNDQtYTdhZi00ODMxNDk2MTA2NTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AFVWmfyhPTELrCEGzX2YIgWMLnmiGzO2uDjrm33__YM"></a>
-I'm Bubblemybutt i like hardcore gaming, studying (pro), hanging out with friends, and sometimes code malware (thehe 💅).
+I like hardcore gaming, studying (pro), hanging out with friends, and sometimes code malware (thehe 💅).
 <br><br>
 
 ## **🎐 Experience**
