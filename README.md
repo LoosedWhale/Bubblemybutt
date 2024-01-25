@@ -2,7 +2,8 @@
 <img src="https://media.discordapp.net/attachments/935831854064488460/1197140511979483216/Jokerys_github.gif?ex=65ba2efb&is=65a7b9fb&hm=e9268a64c8486e639e0351dc3e7fa626c76bb3d96c9d8063b91a6218a9957667&=&width=986&height=82" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
- <img height="100" alt="yaar" src="https://media.discordapp.net/attachments/935831854064488460/1197139994649841674/Vanilla-1s-280px_1.gif?ex=65ba2e80&is=65a7b980&hm=cc4df445c5f81463ce22e18e6a425b833a9517a1717e3bce98e9d39fe8ea2c16&=&width=700&height=700" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fjokery&label=Profile%20views&color=0e75b6&style=flat-square" alt="fjokery" /> </p>
+
   <br />
   <br />
 
