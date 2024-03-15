@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ADD COOL TITLE --->
+<img align="center" width="450" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB1dmpzbTM2eHJibGt5dDZhcXVodjQwbHJzMW9xeGh6M3M3N3FsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NfL5LsKGMqdEwN4e4e/giphy.gif">
 </div>
 
 
